@@ -49,7 +49,6 @@
 		D98DD8F91F36DD6B00582F3B /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D98DD8F81F36DD6B00582F3B /* ImageIO.framework */; };
 		D98DD8FB1F36DD6F00582F3B /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D98DD8FA1F36DD6F00582F3B /* QuartzCore.framework */; };
 		D98DD8FD1F36DD7300582F3B /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D98DD8FC1F36DD7300582F3B /* Accelerate.framework */; };
-		D98DD8FF1F36DD7700582F3B /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D98DD8FE1F36DD7700582F3B /* AssetsLibrary.framework */; };
 		D98DD9011F36DD7D00582F3B /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D98DD9001F36DD7D00582F3B /* MobileCoreServices.framework */; };
 		D98DD9031F36DD8100582F3B /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D98DD9021F36DD8100582F3B /* libz.tbd */; };
 		D98DD9051F36DD8500582F3B /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D98DD9041F36DD8500582F3B /* libsqlite3.tbd */; };
@@ -114,7 +113,6 @@
 				D98DD9051F36DD8500582F3B /* libsqlite3.tbd in Frameworks */,
 				D98DD9031F36DD8100582F3B /* libz.tbd in Frameworks */,
 				D98DD9011F36DD7D00582F3B /* MobileCoreServices.framework in Frameworks */,
-				D98DD8FF1F36DD7700582F3B /* AssetsLibrary.framework in Frameworks */,
 				D98DD8FD1F36DD7300582F3B /* Accelerate.framework in Frameworks */,
 				D98DD8FB1F36DD6F00582F3B /* QuartzCore.framework in Frameworks */,
 				D98DD8F91F36DD6B00582F3B /* ImageIO.framework in Frameworks */,
